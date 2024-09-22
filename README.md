@@ -1,4 +1,4 @@
-# GlucioGuard
+# GlucoGuard
 GlucoGuard is a comprehensive project designed to predict the onset of diabetes using machine learning models and data analytics. It leverages the Pima Indians Diabetes Database, offering users an interactive tool to input patient data and receive predictions based on biological metrics.
 
 # Features:
